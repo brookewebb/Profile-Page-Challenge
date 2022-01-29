@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* utility */
+
+/* .flex{
+    display: flex;
+} */
+
+.width{
+    width: 70%;
+}
+
+.horizontal-center{
+    display: flex;
+    justify-content: center;
+}
+
+.gap{
+    display: flex;
+    gap: 20px;
+}
+.pad{
+    padding: 20px;
+}
+
+
+
+/* end utility */
+
+.why{
+    background: linear-gradient(crimson, transparent);
+    padding: 50px;
+    min-width: 100%;
+}
+nav{
+    background-image:url(./img/Seamless-pattern-floral-beautiful-red-Rose-on-transparent-background-PNG.png);
+    min-height: 100px;
+    background-color: peachpuff;
+    background-size: 300px;
+    border-radius: 50px / 100px;
+    
+    
+}
+
+
+.nav-bar{
+    background-color: black;
+    opacity: 75%;
+    border-radius: 50px / 100px;
+    min-height: 50px;
+}
+
+
+.nav-border{
+    min-width: 100px;
+}
+.help{
+    min-height: 500px;
+    background-color: pink;
+
+}
