@@ -99,12 +99,12 @@
 /* end utility */
 
 #outline{
-    background-image: url(./img/bubble.png),-webkit-linear-gradient(rgb(105, 48, 195),rgb(173, 232, 244), transparent);
+    background-image: url(./img/bubble.png),-webkit-linear-gradient(darkslateblue,rgb(173, 232, 244), transparent);
     background-size: 500px;
 }
 nav{
     min-height: 100px;
-    width: 100%;
+    width: 1700px;
 } 
 
 
@@ -112,8 +112,7 @@ nav{
     background-color: rgb(0,0,0, 0.75);
     border-radius: 50px / 100px;
     min-height: 50px;
-    width: 100%;
-    
+    width:100%;
 }
 
 
@@ -316,11 +315,11 @@ nav{
     position: absolute;
     margin-top: 45px;
     margin-left: 80px;
-    border: 10px solid rgb(249, 65, 68);
+    border: 10px solid cornflowerblue;
 }
 .profile-banner{
     min-height: 150px;
-    background-color: rgb(249, 65, 68);
+    background-color: cornflowerblue;
     border-radius: 50px 50px 0px 0px;
 }
 
@@ -336,7 +335,7 @@ nav{
     background-color: white;
     min-height: 400px;
     border-radius: 0px 0px 50px 50px;
-    border: 10px solid rgb(249, 65, 68);
+    border: 10px solid cornflowerblue;
     padding: 20px;
 }
 
